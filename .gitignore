@@ -8,6 +8,7 @@ wheels/
 
 # Virtual environment
 env/
+.env
 venv/
 
 # IDE/editor settings
